@@ -7,7 +7,7 @@
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/cgruben/](https://www.linkedin.com/in/cgruben)
 
-- 💬 Ask me about **HTML, CSS, and React 🐱‍🚀**
+- 💬 Ask me about **TypeScript, SASS, and React 🐱‍🚀**
 
 - 📫 How to reach me **rubencontrerasguerrero@hotmail.com**
 
