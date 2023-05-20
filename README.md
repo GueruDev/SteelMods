@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👨🏻‍💻, I'm Ruben Contreras</h1>
 <h3 align="center">A passionate frontend developer from Peru 🇵🇪</h3>
 
+[<img href="https://uploadnow.io/files/g7P9z88](https://i.postimg.cc/4N1DghsB/Github-banner.gif">](https://i.postimg.cc/4N1DghsB/Github-banner.gif)
+
 - 🌱 I’m currently learning **CS50 2022 Harvard University**
 
 - 👨‍💻 All of my projects are available at [https://github.com/SteelMods](https://github.com/SteelMods)
