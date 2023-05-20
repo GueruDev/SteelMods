@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/SteelMods](https://github.com/SteelMods)
 
-- 📝 I regularly write articles on [https://www.linkedin.com/in/rub%C3%A9n-contreras-guerrero-70b6441a9/](https://www.linkedin.com/in/rub%C3%A9n-contreras-guerrero-70b6441a9/)
+- 📝 I regularly write articles on [https://www.linkedin.com/in/cgruben/](https://www.linkedin.com/in/cgruben)
 
 - 💬 Ask me about **HTML, CSS, and React 🐱‍🚀**
 
