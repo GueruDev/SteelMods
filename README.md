@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👨🏻‍💻, I'm Ruben Contreras</h1>
 <h3 align="center">A passionate frontend developer from Peru 🇵🇪</h3>
 
-- 🌱 I’m currently learning **CS50 2022 Harvard University**
+- 🌱 I’m currently learning **CS50 2022 Harvard University** | [Here, my Notes](https://flying-tarp-bb4.notion.site/Notas-4c62fc3df05345f8b3c398b4dbdd0036)
 
 - 👨‍💻 All of my projects are available at [https://github.com/SteelMods](https://github.com/SteelMods)
 
