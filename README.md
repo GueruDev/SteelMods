@@ -2,13 +2,11 @@
 <h1 align="center">Hi 👨🏻‍💻, I'm Ruben Contreras</h1>
 <h3 align="center">A passionate frontend developer from Peru 🇵🇪</h3>
 
-- 🌱 I’m currently learning **CS50 2022 Harvard University** | [Here, my Notes](https://flying-tarp-bb4.notion.site/Notas-4c62fc3df05345f8b3c398b4dbdd0036)
+- 🌱 I’m currently learning **Bun**
 
 - 👨‍💻 All of my projects are available at [https://github.com/SteelMods](https://github.com/SteelMods)
 
-- 📝 I regularly write articles on [https://www.linkedin.com/in/cgruben/](https://www.linkedin.com/in/cgruben)
-
-- 💬 Ask me about **TypeScript, SASS, and React 🐱‍🚀**
+- 💬 Ask me about **javaScript, Modern CSS, and React 🐱‍🚀**
 
 - 📫 How to reach me **rubencontrerasguerrero@hotmail.com**
 
